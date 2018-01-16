@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBook", "InteractiveBook.csproj", "{216F1DC8-794D-9171-5DB3-8369356C0F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBook.Editor", "InteractiveBook.Editor.csproj", "{5BF32A6F-DFEB-DE06-5C6F-CB9D2146F211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216F1DC8-794D-9171-5DB3-8369356C0F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216F1DC8-794D-9171-5DB3-8369356C0F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216F1DC8-794D-9171-5DB3-8369356C0F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216F1DC8-794D-9171-5DB3-8369356C0F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF32A6F-DFEB-DE06-5C6F-CB9D2146F211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF32A6F-DFEB-DE06-5C6F-CB9D2146F211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF32A6F-DFEB-DE06-5C6F-CB9D2146F211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF32A6F-DFEB-DE06-5C6F-CB9D2146F211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

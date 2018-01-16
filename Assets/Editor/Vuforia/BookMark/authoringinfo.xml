@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<VuforiaUnityInfo>
+    <TargetSet toolVersion="" version="6.0"><VuMark name="magicbook2" previewImage="f9e7588cc3104d32b765f4195c9f83b1_scaled.png" targetId="f9e7588cc3104d32b765f4195c9f83b1" version="9.0">
+            <Shape bbox2D="0 0 363.515 113.18" origin="178.462 54.257" />
+            <Code IDlength="5" IDtype="numeric" MaxID="20" />
+        </VuMark>
+    </TargetSet>
+</VuforiaUnityInfo>
